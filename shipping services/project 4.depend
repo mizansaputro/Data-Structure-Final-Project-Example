@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1641051926 source:d:\semester 5\project\project 4\main.cpp
+	"menu.h"
+
+1641051907 source:d:\semester 5\project\project 4\menu.cpp
+	"menu.h"
+
+1640619302 source:d:\semester 5\project\project 4\relasi.cpp
+	"relasi.h"
+
+1640627153 source:d:\semester 5\project\project 4\child_data.cpp
+	"child_data.h"
+
+1640622434 d:\semester 5\project\project 4\child_data.h
+	<iostream>
+
+1640627828 source:d:\semester 5\project\project 4\parent_tipe.cpp
+	"parent_tipe.h"
+
+1640614493 d:\semester 5\project\project 4\parent_tipe.h
+	"child_data.h"
+
+1640619286 d:\semester 5\project\project 4\relasi.h
+	"parent_tipe.h"
+
+1640620574 d:\semester 5\project\project 4\menu.h
+	"relasi.h"
+
