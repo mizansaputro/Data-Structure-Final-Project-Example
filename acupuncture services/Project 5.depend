@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1640639946 source:d:\semester 5\project\project 5\child_pelanggan.cpp
+	"child_pelanggan.h"
+
+1640645264 source:d:\semester 5\project\project 5\main.cpp
+	"menu.h"
+
+1640646902 source:d:\semester 5\project\project 5\menu.cpp
+	"menu.h"
+
+1640644488 source:d:\semester 5\project\project 5\relasi.cpp
+	"relasi.h"
+
+1640646280 source:d:\semester 5\project\project 5\parent_mesin.cpp
+	"parent_mesin.h"
+
+1640646035 d:\semester 5\project\project 5\parent_mesin.h
+	"child_pelanggan.h"
+
+1640640893 d:\semester 5\project\project 5\child_pelanggan.h
+	<iostream>
+
+1640644450 d:\semester 5\project\project 5\relasi.h
+	"parent_mesin.h"
+
+1640644535 d:\semester 5\project\project 5\menu.h
+	"relasi.h"
+
