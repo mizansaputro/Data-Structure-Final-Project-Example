@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1640202950 source:d:\semester 5\project\project 2\costumer.cpp
+	"costumer.h"
+
+1640185784 source:d:\semester 5\project\project 2\main.cpp
+	"menu.h"
+
+1640355515 source:d:\semester 5\project\project 2\menu.cpp
+	"menu.h"
+
+1641364954 source:d:\semester 5\project\project 2\mobil.cpp
+	"mobil.h"
+
+1640203319 source:d:\semester 5\project\project 2\relasi.cpp
+	"relasi.h"
+
+1640199142 d:\semester 5\project\project 2\mobil.h
+	"costumer.h"
+
+1641365824 d:\semester 5\project\project 2\costumer.h
+	<iostream>
+
+1640185012 d:\semester 5\project\project 2\menu.h
+	"relasi.h"
+
+1640105374 d:\semester 5\project\project 2\relasi.h
+	"mobil.h"
+
